@@ -1,0 +1,20 @@
+# Dependencias y compilados
+node_modules/
+dist/
+.angular/
+target/
+out/
+out-tsc/
+
+# Logs locales
+*.log
+
+# Maven wrapper (se descarga solo)
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
